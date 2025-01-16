@@ -1,4 +1,4 @@
-# Real-Time Weapon Detection System Using EfficientDet
+# Weapon Detection System Using EfficientDet
 
 This project implements a real-time weapon detection system leveraging the EfficientDet and EfficientNet algorithms. It processes video inputs from live camera feeds or uploaded videos to detect weapons like guns and knives, displaying bounding boxes and confidence scores.
 
